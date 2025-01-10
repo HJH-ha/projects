@@ -7,11 +7,8 @@ function Hero() {
         <div className="hero-title">
           <h1>React Projects</h1>
           <p>
-            Single-origin coffee deep v sus small batch. Gorpcore vape
-            lumbersexual normcore four dollar toast drinking vinegar. Twee 90's
-            taiyaki small batch bitters, bespoke jianbing leggings marxism
-            keytar pabst adaptogen mixtape tumblr stumptown. DSA twee iceland
-            tacos swag tote bag. Solarpunk man bun fingerstache retro pinterest.
+            리액트 수업으로 배운 프로젝트 중 일부입니다. 영화 찾기, 영화 리스트,
+            카드 뒤집기 게임, 깃허브 유저 찾기 사이트입니다.
           </p>
         </div>
         <div className="img-container">

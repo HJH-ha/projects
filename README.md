@@ -1,8 +1,16 @@
-# React + Vite
+# My Projects!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+리액트를 활용해 만든 프로젝트들을 보여주는 페이지입니다.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛒 주요기능
+
+- 프로젝트 클릭시 그 프로젝트 페이지로 이동합니다.
+- 영화 찾기, 영화 리스트, 카드뒤집기 게임, 깃허브 유저찾기 프로젝트 입니다.
+- 반응형 UI: 다양한 화면 크기에 대응할 수 있는 UI 설계.
+- Netlify를 이용해 베포하는 방법을 익히고 공부 중 입니다.
+
+### 🌐 배포된 사이트
+
+[MyProjects](https://myprojects-jhha.netlify.app/)
