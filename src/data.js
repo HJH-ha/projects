@@ -2,7 +2,7 @@ import p1 from "./assets/movie1.png";
 import p2 from "./assets/movie2.png";
 import p3 from "./assets/game.png";
 import p4 from "./assets/github.png";
-import p5 from "./assets/parkinglot.png";
+import p5 from "./assets/parking.png";
 
 export const projects = [
   {
