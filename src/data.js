@@ -2,6 +2,7 @@ import p1 from "./assets/movie1.png";
 import p2 from "./assets/movie2.png";
 import p3 from "./assets/game.png";
 import p4 from "./assets/github.png";
+import p5 from "./assets/parkinglot.png";
 
 export const projects = [
   {
@@ -29,10 +30,10 @@ export const projects = [
     image: p4,
   },
   {
-    id: 4,
-    title: "github-finder",
-    url: "https://githubfinder-jhha.netlify.app/",
-    image: p4,
+    id: 5,
+    title: "parkinglot-find",
+    url: "https://searchparkinglot-jhha.netlify.app/",
+    image: p5,
   },
   {
     id: 4,
